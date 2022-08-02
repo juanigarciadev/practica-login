@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #181818;
+}
+
+.titulos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 500px;
+}
+
+.h1 {
+    color: #ff0038;
+    padding-top: 20px;
+}
+
+p {
+    color: white;
+}
