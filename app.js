@@ -19,7 +19,7 @@ function resNo() {
 }
 
 // Se hace la pregunta dándole valor a los parámetros ingresados en la constante continuarFormulario
-// cambiando el parámetro (si, no) por las funciones resSi y resNo
+// cambiando los parámetros (respuesta, si, no) por el string y las funciones resSi y resNo
 continuarFormulario("Estás por rellenar un formulario para iniciar sesión, ¿desea continuar?",resSi,resNo)
 
 
